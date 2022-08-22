@@ -5,3 +5,4 @@ completing a source code to print the integer stored in the variable number
 Printing the float stored in the variable numbr to 2 decimal digits
 Printing a string 3 times and followed by its first 9 characters
 concataneting two strings 
+copy, cut and paste a word
