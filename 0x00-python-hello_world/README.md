@@ -7,3 +7,4 @@ Printing a string 3 times and followed by its first 9 characters
 concataneting two strings 
 copy, cut and paste a word
 Creating a new sentence
+A Pyhton script that prints the Zen of Python by TimPeters
