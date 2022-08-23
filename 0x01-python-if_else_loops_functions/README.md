@@ -12,3 +12,4 @@ A function that adds two integers and returns the result
 A function that computes a to the power of b and return the value
 A function that prints the numbers from 1 to 100 separated by a space
 A program that prints the ASCII alphabet in reverse order, alternating lowercase and uppercase
+A function that creates a copy of the string, removing the character at the position n
