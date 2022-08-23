@@ -8,3 +8,4 @@ A program that prints all possible different combinations of two digits
 A function that checks for lowercase character
 A function that prints a string in uppercase followed by anew line
 A function that prints the last digit of a number
+A function that adds two integers and returns the result
