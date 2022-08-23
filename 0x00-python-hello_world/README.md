@@ -9,3 +9,4 @@ copy, cut and paste a word
 Creating a new sentence
 A Pyhton script that prints the Zen of Python by TimPeters
 A C function thta checks is a singly linked list has a cycle in it
+A python script that prints a sentense using write from the sys module
