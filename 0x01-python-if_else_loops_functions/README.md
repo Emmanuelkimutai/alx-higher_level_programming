@@ -10,3 +10,4 @@ A function that prints a string in uppercase followed by anew line
 A function that prints the last digit of a number
 A function that adds two integers and returns the result
 A function that computes a to the power of b and return the value
+A function that prints the numbers from 1 to 100 separated by a space
