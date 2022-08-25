@@ -7,3 +7,4 @@ A program that imports a variable from a file and prints its value
 A program that imports all functions from a file and handles basic operations
 A program that prints #pythoniscool
 ByteCode -> python#3
+A program that prints the alphabet in uppercase
