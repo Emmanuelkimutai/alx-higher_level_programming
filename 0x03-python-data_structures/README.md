@@ -5,3 +5,4 @@ A function that prints all integers of a list, in reverse order
 A function that replaces an element in alist at a specific position
   without modifying the original list
 A function that removes all charcters c and C from a string
+A function that prints a matrix of integers
