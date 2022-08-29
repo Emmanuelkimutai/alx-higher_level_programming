@@ -6,3 +6,4 @@ A function that replaces an element in alist at a specific position
   without modifying the original list
 A function that removes all charcters c and C from a string
 A function that prints a matrix of integers
+Function that returns a tuple with length of a string and its first character
