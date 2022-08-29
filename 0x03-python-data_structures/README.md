@@ -8,3 +8,4 @@ A function that removes all charcters c and C from a string
 A function that prints a matrix of integers
 Function that returns a tuple with length of a string and its first character
 function that finds the biggest integer of a list
+A function that finds all multiple of 2 in a list
