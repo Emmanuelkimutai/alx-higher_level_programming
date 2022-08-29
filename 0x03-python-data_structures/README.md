@@ -10,3 +10,4 @@ Function that returns a tuple with length of a string and its first character
 function that finds the biggest integer of a list
 A function that finds all multiple of 2 in a list
 A function that deletes the item at a specific position in a list
+Program that switches value of a and b
