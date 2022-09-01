@@ -11,3 +11,4 @@ function that returns a new dictionary with all values multiplied by 2
 function that returns a key with the biggest integer value
 function that returns a list with all values multiplied by a number without using any loops
 Roman to integer
+function that returns the weighted avarage of all integers tuple
