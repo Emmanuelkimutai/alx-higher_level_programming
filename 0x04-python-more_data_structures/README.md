@@ -13,3 +13,4 @@ function that returns a list with all values multiplied by a number without usin
 Roman to integer
 function that returns the weighted avarage of all integers tuple
 function that computes the square value of all integers of a matrix using map
+function that deletes keys with a specific value in a dictionary
