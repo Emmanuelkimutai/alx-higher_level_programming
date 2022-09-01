@@ -14,3 +14,4 @@ Roman to integer
 function that returns the weighted avarage of all integers tuple
 function that computes the square value of all integers of a matrix using map
 function that deletes keys with a specific value in a dictionary
+function that print some basic info about python lists and python bytes objects
