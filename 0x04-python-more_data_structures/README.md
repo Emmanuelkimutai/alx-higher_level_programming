@@ -4,3 +4,5 @@ f unction that adds all unique integers in a list
 Function that returns a set of common elements in two sets
 function that returns a set of all elements present in only one set
 function that returns the number of keys in a dictionary
+function that prints a dictionary by ordered keys
+function that replace or adds key/value in a dictionary
