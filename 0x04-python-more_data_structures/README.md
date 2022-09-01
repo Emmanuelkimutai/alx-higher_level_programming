@@ -7,3 +7,4 @@ function that returns the number of keys in a dictionary
 function that prints a dictionary by ordered keys
 function that replace or adds key/value in a dictionary
 function that deletes a key in a dictionary
+function that returns a new dictionary with all values multiplied by 2
