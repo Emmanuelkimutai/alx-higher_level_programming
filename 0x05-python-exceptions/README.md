@@ -6,3 +6,4 @@ A function that divides elements by element 2 lists
 A fucntion that raises a type exception
 A function that raises a name exception with a message
 A function that prints an integer
+A function that executes a function safely
