@@ -6,3 +6,4 @@ Access and update private attribute
 Printing a square
 Coordinates of a square
 Write a class node that defines a node of a singly linked list
+write a class square that defines a square and prints Square instance
