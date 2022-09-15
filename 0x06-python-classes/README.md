@@ -8,3 +8,4 @@ Coordinates of a square
 Write a class node that defines a node of a singly linked list
 write a class square that defines a square and prints Square instance
 write a class aquare that defines a square, and compares 2 squares
+Python class magiclass that reads a python bytecode
