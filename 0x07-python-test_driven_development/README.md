@@ -6,3 +6,4 @@ A function that prints a text with 2 new lines after each of these character.,? 
 Max integer - Unittest
 A function that multiplies 2 matrices
 A function that multiplies 2 matrices by using the module Numpy
+A function that prints python strings
