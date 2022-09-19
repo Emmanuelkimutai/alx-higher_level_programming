@@ -6,3 +6,4 @@ Eval is magic
 Detect instance deletion
 How many instances
 Change representation
+Compare rectangles
