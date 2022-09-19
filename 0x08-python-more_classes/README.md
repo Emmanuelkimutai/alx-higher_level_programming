@@ -4,3 +4,4 @@ Area and Perimeter
 String representation
 Eval is magic
 Detect instance deletion
+How many instances
