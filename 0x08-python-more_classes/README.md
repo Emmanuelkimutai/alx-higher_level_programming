@@ -3,3 +3,4 @@ Real definition of a rectangle
 Area and Perimeter
 String representation
 Eval is magic
+Detect instance deletion
