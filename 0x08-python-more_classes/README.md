@@ -8,3 +8,4 @@ How many instances
 Change representation
 Compare rectangles
 A square is a rectangle
+N queens
