@@ -32,3 +32,4 @@ Low memory cost
 int 1/3
 int 2/3
 int 3/3
+Clear strings
