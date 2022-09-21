@@ -25,3 +25,4 @@ a = (1, ), tuple or not?
 Who I am?
 Tuple or not
 Empty is not empty
+Still the same?
