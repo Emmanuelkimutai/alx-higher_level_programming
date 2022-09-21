@@ -30,3 +30,4 @@ Same or not?
 A function that returns a string BestSchool n times the number of the iteration
 Low memory cost
 int 1/3
+int 2/3
