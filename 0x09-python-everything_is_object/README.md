@@ -18,3 +18,4 @@ Integer incrementation
 List incrementation
 List assignation
 A function def copy_list(l): that returns a copy of a list
+Tuple or not?
