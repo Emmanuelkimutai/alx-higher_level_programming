@@ -28,3 +28,4 @@ Empty is not empty
 Still the same?
 Same or not?
 A function that returns a string BestSchool n times the number of the iteration
+Low memory cost
