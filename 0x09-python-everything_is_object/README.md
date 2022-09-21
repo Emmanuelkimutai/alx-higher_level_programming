@@ -21,3 +21,4 @@ A function def copy_list(l): that returns a copy of a list
 Tuple or not?
 a = (1, 2) Tuple or not?
 a = (1) Tuple or not?
+a = (1, ), tuple or not?
