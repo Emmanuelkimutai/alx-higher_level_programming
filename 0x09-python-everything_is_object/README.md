@@ -9,3 +9,4 @@ Is the same
 Is really equal
 Is really the same
 And with a list, is it equal
+using the is function to check is the variables are the same
