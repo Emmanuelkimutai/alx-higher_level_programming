@@ -12,3 +12,4 @@ And with a list, is it equal
 using the is function to check is the variables are the same
 Is the variable l2 = l1 are the equal
 Is the variable l2 = l1 equal using the is function
+List append
