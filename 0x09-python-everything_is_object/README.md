@@ -8,3 +8,4 @@ Is equal
 Is the same
 Is really equal
 Is really the same
+And with a list, is it equal
