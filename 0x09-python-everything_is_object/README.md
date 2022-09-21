@@ -3,3 +3,4 @@ code used to get the variable indentifier
 Right count
 Right count =
 Doest it point to the same object
+Doest b = a+1 point to the same object as a = 89
