@@ -13,3 +13,4 @@ add Instantiation with width and height to class Rectangle
 Write a class Square that inherits from Rectangle
 Add instantiation with size to class Square
 Write a class MyInt that inherits from int
+Write a functio that adds a new attribute to an object if its possible
