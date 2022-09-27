@@ -12,3 +12,4 @@ A class rectangle that inherits from BaseGeometry
 add Instantiation with width and height to class Rectangle
 Write a class Square that inherits from Rectangle
 Add instantiation with size to class Square
+Write a class MyInt that inherits from int
