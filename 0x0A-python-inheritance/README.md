@@ -8,3 +8,4 @@ A function that returns True if the object is an instance of class that inherite
 Write an empy class BseGeometry
 Adding public intance method that raises an exception with the message area() is not implemented
 adding public instance method that validates value
+A class rectangle that inherits from BaseGeometry
