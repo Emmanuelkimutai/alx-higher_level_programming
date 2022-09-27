@@ -7,3 +7,4 @@ A function that returns True if the object is an instance of class that inherite
  from the specified class els false
 Write an empy class BseGeometry
 Adding public intance method that raises an exception with the message area() is not implemented
+adding public instance method that validates value
