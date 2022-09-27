@@ -6,3 +6,4 @@ A function that returns True if the object is an instance of or if the object is
 A function that returns True if the object is an instance of class that inherited 
  from the specified class els false
 Write an empy class BseGeometry
+Adding public intance method that raises an exception with the message area() is not implemented
