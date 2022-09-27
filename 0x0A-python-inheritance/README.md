@@ -5,3 +5,4 @@ A function that returns True if the object is an instance of or if the object is
  of a class that inherited from, the specified class; else False
 A function that returns True if the object is an instance of class that inherited 
  from the specified class els false
+Write an empy class BseGeometry
