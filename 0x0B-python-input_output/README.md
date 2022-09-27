@@ -6,3 +6,4 @@ Write a function thta returns the JSON representation of a object
 Write a function that returns an object represented by JSON string
 Write a function that writes an object to a text file, usin a JSON representation
 Write a funtion that creates an Object from a JSON file
+Write a script that adds all arguments to python list, and then save them to a file
