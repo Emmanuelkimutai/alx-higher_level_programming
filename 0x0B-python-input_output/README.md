@@ -12,3 +12,4 @@ Write a class Student that defines a student
 Write a class student that defines a student
 Write a clss student that defines student by
 Pascals Triangle
+Write a function that inserts a line of text to a file, after each line containing a specific string
