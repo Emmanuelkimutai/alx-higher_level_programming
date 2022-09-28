@@ -11,3 +11,4 @@ Write a fuction that returns the dictionary description with simple data structu
 Write a class Student that defines a student
 Write a class student that defines a student
 Write a clss student that defines student by
+Pascals Triangle
