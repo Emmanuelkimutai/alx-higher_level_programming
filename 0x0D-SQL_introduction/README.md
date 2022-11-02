@@ -10,3 +10,4 @@ Write a script that displays the number of records with specific id in the table
 Write a script to create a table and inserts data into the table
 Write a script that lists all records of the table
 Write a script that lists all records with a score >=0 in the table
+Write a script that updates the score in the table
