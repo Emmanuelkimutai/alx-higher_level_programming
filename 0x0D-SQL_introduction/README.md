@@ -14,3 +14,4 @@ Write a script that updates the score in the table
 Write a script that removes all records with score
 Write a script that computes the score average of all records in the table
 Write a script that lists the number of records with the same score in the table
+Write a script that list all records of the table in the database, do not list rows without a name value
