@@ -4,3 +4,4 @@ Write a script that deletes a database
 Write a script that lists all the tables of a database
 Write a script a table in you curent database
 Write a script that prints the full description of a table
+Write a script that lists all rows of the table
