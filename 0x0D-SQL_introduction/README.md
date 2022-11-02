@@ -7,3 +7,4 @@ Write a script that prints the full description of a table
 Write a script that lists all rows of the table
 Write a script that inserts a new row in the table
 Write a script that displays the number of records with specific id in the table
+Write a script to create a table and inserts data into the table
