@@ -17,3 +17,4 @@ Write a script that lists the number of records with the same score in the table
 Write a script that list all records of the table in the database, do not list rows without a name value
 Write a script that converts hbtn_0c_0 database to UTF8
 Write a script that displays the avarage temperature by city ordered by temperature
+Write a script that displays the top 3 of cities temperature during July and August orderd by temperature
