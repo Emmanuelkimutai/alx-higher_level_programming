@@ -11,3 +11,4 @@ Write a script that lists all cities contained in the database, each record shou
 Write a script that list all shows contained in hbtn_0d_tvshows that have at least one genre linked
 Write a script that lists all shows contained inthe database
 Write a script that lists all shows contained in hbtn_0d_tvshows without a genre linked
+Write a script that lists all genres from hbtn_0d_tvshows and displays the number of shows llinked to each other
