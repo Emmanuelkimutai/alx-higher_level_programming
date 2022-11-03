@@ -12,3 +12,4 @@ Write a script that list all shows contained in hbtn_0d_tvshows that have at lea
 Write a script that lists all shows contained inthe database
 Write a script that lists all shows contained in hbtn_0d_tvshows without a genre linked
 Write a script that lists all genres from hbtn_0d_tvshows and displays the number of shows llinked to each other
+Write a script tha uses the hbtn_od_tvshows database to lists all genre of the show Dexter
