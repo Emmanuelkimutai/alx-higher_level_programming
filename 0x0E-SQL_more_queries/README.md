@@ -8,3 +8,4 @@ Write a script taht creates the database hbtn_0d_usa and the table state, with c
 Write a script that creates the database hbtn_0d_usa and table cities, with columns id, state_id, name
 Write a script that lists all the cities of California that can be found in the database
 Write a script that lists all cities contained in the database, each record should display; cities.id - cities.name - state.name
+Write a script that list all shows contained in hbtn_0d_tvshows that have at least one genre linked
