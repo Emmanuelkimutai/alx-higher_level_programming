@@ -21,3 +21,4 @@ Write a script that list all shows without the genre Comedy in the database htbn
  2 files changed, 20 insertions(+)
  create mode 100644 0x0E-SQL_more_queries/101-not_a_comedy.sql
 Write a script that lists all shows from hbtn_0d_tvshows_rate by their rating
+Write a script that lists all genres in the database hbtn_0d_tvshows_rate by their rating
