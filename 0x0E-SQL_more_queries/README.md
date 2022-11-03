@@ -14,3 +14,4 @@ Write a script that lists all shows contained in hbtn_0d_tvshows without a genre
 Write a script that lists all genres from hbtn_0d_tvshows and displays the number of shows llinked to each other
 Write a script tha uses the hbtn_od_tvshows database to lists all genre of the show Dexter
 Write a script that lists all comedy shows in the database hbtn_0d_tvshows
+Write a script that lists all showa and all genres linked to that show, from the database
