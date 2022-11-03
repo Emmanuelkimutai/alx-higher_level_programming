@@ -17,3 +17,7 @@ Write a script that lists all comedy shows in the database hbtn_0d_tvshows
 Write a script that lists all showa and all genres linked to that show, from the database
 Write a script that uses the hbtn_0d_tvshows database to list all genres not linked to the show Dexter
 Write a script that list all shows without the genre Comedy in the database htbn_0d_tvshows
+[master e459172] No Comedy tonight!
+ 2 files changed, 20 insertions(+)
+ create mode 100644 0x0E-SQL_more_queries/101-not_a_comedy.sql
+Write a script that lists all shows from hbtn_0d_tvshows_rate by their rating
