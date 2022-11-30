@@ -9,3 +9,4 @@ Write a script that prints x times "C is fun"
 Write a script that prints a square
 Write a script that prints the addition of 2 integers
 Write a script that computes and prints a factorial
+Write a script that searches the second biggest intger ithe list of arguments
