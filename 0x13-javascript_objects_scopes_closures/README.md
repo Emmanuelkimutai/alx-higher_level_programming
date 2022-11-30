@@ -6,3 +6,4 @@ Write a class Square that defines a square and inherites from square of 5-square
 Write a function that returns the number of occurrence in a list
 Write a function that returns the reversed version of a list
 Write a function tht prints the number of arguments already printed and the new argument value
+Write a function that converts a number from base 10 to another base passed as argument
