@@ -11,3 +11,4 @@ Write a script that prints the addition of 2 integers
 Write a script that computes and prints a factorial
 Write a script that searches the second biggest intger ithe list of arguments
 Update this script to replace the value 12 with 89
+Write a function taht returns the addition of 2 integers
