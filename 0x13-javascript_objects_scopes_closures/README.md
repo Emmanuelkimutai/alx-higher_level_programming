@@ -9,3 +9,4 @@ Write a function tht prints the number of arguments already printed and the new 
 Write a function that converts a number from base 10 to another base passed as argument
 Write a script that imports an array and computes a new array
 Write a scripts that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence
+Write a script that concats 2 files
