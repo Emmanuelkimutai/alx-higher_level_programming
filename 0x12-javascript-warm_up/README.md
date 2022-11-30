@@ -14,3 +14,4 @@ Update this script to replace the value 12 with 89
 Write a function taht returns the addition of 2 integers
 Write a file that modifies the value of myVar to 333
 Write a function that executes x times a function
+Write a function that increments and calls a function
