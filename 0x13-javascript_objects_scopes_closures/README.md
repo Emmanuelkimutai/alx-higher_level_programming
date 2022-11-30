@@ -7,3 +7,4 @@ Write a function that returns the number of occurrence in a list
 Write a function that returns the reversed version of a list
 Write a function tht prints the number of arguments already printed and the new argument value
 Write a function that converts a number from base 10 to another base passed as argument
+Write a script that imports an array and computes a new array
