@@ -15,3 +15,4 @@ Write a function taht returns the addition of 2 integers
 Write a file that modifies the value of myVar to 333
 Write a function that executes x times a function
 Write a function that increments and calls a function
+Update this script by adding a new function incr that increments the integer value
