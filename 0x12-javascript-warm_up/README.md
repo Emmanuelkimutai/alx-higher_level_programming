@@ -7,3 +7,4 @@ Write a script that prints My number: <first argument converted in integer> if t
 Write a script that prints 3 lines, using an array of string and a loop
 Write a script that prints x times "C is fun"
 Write a script that prints a square
+Write a script that prints the addition of 2 integers
