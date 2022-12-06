@@ -1,1 +1,2 @@
 Write a script that lists all states from the database hbtn_0e_0_usa
+Write a script that lists all state with a name starting with n(upper N) from the database
